@@ -22,7 +22,7 @@ python main_visualiza_duplicadas.py
 # Filtro no GUI
 Use * para qualquer sequência de caracteres (ex: d:\pasta1**small.png)
 Use ? para um único caractere (ex: d:\pasta1\pasta?\file?.jpg)
-O filtro funciona tanto para exibição quanto para o botão "Selecionar Todos do Filtro". Se quiser exemplos ou ajustes, só pedir!
+O filtro funciona tanto para exibição quanto para o botão "Selecionar Todos do Filtro".
 
 # Config do projeto
 ## Criar e entrar na venv Windows CMD
